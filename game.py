@@ -1,6 +1,6 @@
 import random
 
-options = ("rock".lower(), "paper".lower(), "scissors".lower())
+options = ("rock", "paper", "scissors"())
 
 while True:
 
